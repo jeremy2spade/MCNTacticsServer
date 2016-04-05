@@ -1,0 +1,41 @@
+Not Found: /
+[05/Apr/2016 14:48:22] "GET / HTTP/1.1" 200 1767
+Not Found: /admin
+[05/Apr/2016 14:55:17] "GET /admin HTTP/1.1" 301 0
+[05/Apr/2016 14:55:17] "GET /admin/ HTTP/1.1" 302 0
+[05/Apr/2016 14:55:18] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1679
+[05/Apr/2016 14:55:18] "GET /static/admin/css/base.css HTTP/1.1" 200 15897
+[05/Apr/2016 14:55:18] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[05/Apr/2016 14:55:18] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[05/Apr/2016 14:55:18] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[05/Apr/2016 14:55:18] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[05/Apr/2016 14:58:45] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[05/Apr/2016 14:58:45] "GET /admin/ HTTP/1.1" 200 2778
+[05/Apr/2016 14:58:45] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[05/Apr/2016 14:58:45] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[05/Apr/2016 14:58:45] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[05/Apr/2016 14:58:45] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+Not Found: /
+[05/Apr/2016 14:58:52] "GET / HTTP/1.1" 200 1767
+[05/Apr/2016 14:58:54] "GET /admin/ HTTP/1.1" 200 2778
+[05/Apr/2016 14:58:55] "GET /admin/ HTTP/1.1" 200 2778
+[05/Apr/2016 14:58:56] "GET /admin/ HTTP/1.1" 200 2778
+[05/Apr/2016 14:58:58] "GET /admin/auth/ HTTP/1.1" 200 2704
+[05/Apr/2016 14:58:59] "GET /admin/auth/ HTTP/1.1" 200 2704
+[05/Apr/2016 14:58:59] "GET /admin/auth/ HTTP/1.1" 200 2704
+[05/Apr/2016 14:59:02] "GET /admin/auth/user/ HTTP/1.1" 200 6608
+[05/Apr/2016 14:59:02] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6100
+[05/Apr/2016 14:59:02] "GET /static/admin/js/core.js HTTP/1.1" 200 8366
+[05/Apr/2016 14:59:02] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[05/Apr/2016 14:59:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[05/Apr/2016 14:59:02] "GET /static/admin/js/actions.js HTTP/1.1" 200 6259
+[05/Apr/2016 14:59:02] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6871
+[05/Apr/2016 14:59:02] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7693
+[05/Apr/2016 14:59:02] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[05/Apr/2016 14:59:02] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 247597
+[05/Apr/2016 14:59:02] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 200 62474
+[05/Apr/2016 14:59:02] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[05/Apr/2016 14:59:02] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[05/Apr/2016 14:59:02] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[05/Apr/2016 14:59:02] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[05/Apr/2016 14:59:05] "GET /admin/ HTTP/1.1" 200 2778
