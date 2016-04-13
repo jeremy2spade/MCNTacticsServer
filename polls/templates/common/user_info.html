@@ -1,0 +1,14 @@
+{% if user_data%}
+	<ul>
+	{% for data in user_data %}
+		<li>{{data.id}} , {{data.user_id}}, {{data.email}} , {{data.conn_status}} </a></li>
+	
+
+	{% endfor %}
+	</ul>
+
+{% else %}
+
+	<p>No polls are available</p>
+
+{% endif %}
